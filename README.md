@@ -2,7 +2,7 @@
 Anticipate wildfire propagation
 
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) 
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1bfc508ab91744bdbb13df2d4bb25d55)](https://www.codacy.com/gh/pyronear/pyro-spread/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pyronear/pyro-spread&amp;utm_campaign=Badge_Grade)
 
 
 ## Quick Tour
