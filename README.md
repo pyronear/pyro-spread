@@ -7,10 +7,13 @@ Anticipate wildfire propagation
 
 ## Quick Tour
 
+![simulation](https://user-images.githubusercontent.com/26927750/158871613-0cc91962-2a6d-44a5-a2e8-79c55c7fa236.gif)
+
 You can run the simulation scripts as follows:
 ```shell
 python scripts/main.py
 ```
+
 
 ## Installation
 
